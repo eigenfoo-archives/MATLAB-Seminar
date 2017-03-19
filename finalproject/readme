@@ -1,8 +1,3 @@
-The Levenberg-Marquardt Algorithm is a method of solving non-linear least squares problems, which arise especially in curve-fitting
-problems.
+The Levenberg-Marquardt Algorithm is a method of solving non-linear least squares problems, which arise especially in curve-fitting problems.
 
-The goal of this final project is to code a MATLAB program that performs the Levenberg-Marquardt algorithm to solve non-linear
-least squares curve fitting problems. In other words, given a distribution which is known down to one or more parameters that is
-to be fitted to given data points, the program must find the parameters that minimizes the squares of the residuals. For example,
-given data that is known to follow a normal distribution, the program must find the mean and variance that fits the distribution
-to the data best.
+The goal of this final project is to code a MATLAB program that performs the Levenberg-Marquardt algorithm to solve non-linear least squares curve fitting problems. In other words, given a distribution which is known down to one or more parameters that is to be fitted to given data points, the program must find the parameters that minimizes the squares of the residuals. For example, given data that is known to follow a normal distribution, the program must find the mean and variance that fits the distribution to the data best.
