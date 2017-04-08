@@ -1,11 +1,6 @@
 %%  MATLAB Final Project
-%   George Ho
 %   Helper function to compute Jacobian.
-%   
-%   func = symbolic function of distributions
-%   var = variable of which func is a function (usually x)
-%   params = column vector of parameters
-%   data = matrix of data, x and y values along the top
+%   George Ho
 
 function J = computeJacobian(func, var, params, data)
     [n ~] = size(data);
